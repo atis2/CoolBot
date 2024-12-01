@@ -1,1 +1,2 @@
-SamKey = ""
+SamKey = "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"
+Token = "7315319357:AAHg_2bN7MitSKvmjE2Vuw2O6cl273H51rI"
